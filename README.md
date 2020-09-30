@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**raghavjoshi789/raghavjoshi789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there,See below what I'm working on 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Full stack with python
+- 🌱 I’m currently learning ... flask and django
+- 👯 I’m looking to collaborate on ... anything 
+- 🤔 I’m looking for help with ... Full stack with Mern Stack 
+- 💬 Ask me about ... Any thing about python 
+- 📫 How to reach me: ...[Mail me](mailto:raghavjoshi789@gmail.com)
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I eat code , I sleep code and I breath code
+
 -->
